@@ -123,7 +123,7 @@
 		"go": "🚀 前往",
 		"img": "/img/sunshinea.jpg",
 		"title": "simple-nav-page",
-		"subtitle": "1,000 miles of wonder",
+		"subtitle": "simple-nav-page",
 		"text": "simple-nav-page",
 		"url": "https://simple-nav-page.jbt.de5.net",
 		"show": false
@@ -131,7 +131,7 @@
 		"go": "🗂️ 前往",
 		"img": "/img/sunshineb.jpg",
 		"title": "oiio-nav",
-		"subtitle": "2,000 miles of wonder",
+		"subtitle": "oiio-navr",
 		"text": "oiio-nav",
 		"url": "https://oiio-nav.pages.dev",
 		"show": false
@@ -139,7 +139,7 @@
 		"go": "📝 前往",
 		"img": "/img/sunshinec.jpg",
 		"title": "药学导航",
-		"subtitle": "3,000 miles of wonder",
+		"subtitle": "mtab.soso",
 		"text": "mtab.soso",
 		"url": "https://mtab.soso.ccwu.cc",
 		"show": false
@@ -147,7 +147,7 @@
 		"go": "👍 前往",
 		"img": "/img/sunshined.jpg",
 		"title": "X-home",
-		"subtitle": "4,000 miles of wonder",
+		"subtitle": "X-home",
 		"text": "If you see this line, I've managed to get your attention.",
 		"url": "X主页导航",
 		"show": false
@@ -155,7 +155,7 @@
 		"go": "🎨 前往",
 		"img": "/img/sunshinee.jpg",
 		"title": "pro-pintree",
-		"subtitle": "6,000 miles of wonder",
+		"subtitle": "pro-pintree",
 		"text": "pro-pintree",
 		"url": "https://pro-pintree.vercel.de5.net",
 		"show": false
@@ -163,7 +163,7 @@
 		"go": "🎨 前往",
 		"img": "/img/sunshinef.jpg",
 		"title": "navhubi",
-		"subtitle": "6,000 miles of wonder",
+		"subtitle": "navhubi",
 		"text": "navhubi",
 		"url": "https://navhubi.vercel.de5.net",
 		"show": false
@@ -171,7 +171,7 @@
 		"go": "💍 前往",
 		"img": "/img/sunshineg.jpg",
 		"title": "pan",
-		"subtitle": "7,000 miles of wonder",
+		"subtitle": "pan网盘导航",
 		"text": "pan",
 		"url": "https://pan.vercel.de5.net",
 		"show": false
@@ -179,7 +179,7 @@
 		"go": "🔍 前往",
 		"img": "/img/sunshineh.jpg",
 		"title": "drug.soso",
-		"subtitle": "8,000 miles of wonder",
+		"subtitle": "药研导航",
 		"text": "drug.soso导航",
 		"url": "https://drug.soso.ccwu.cc",
 		"show": false
