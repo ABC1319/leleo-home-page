@@ -1,15 +1,12 @@
-
-### 环境变量值
-```json
 {
 	"metaData": {
-		"title": "Leleo的个人主页",
-		"description": "欢迎来到Leleo的奇妙世界！",
-		"keywords": "Leleo,leleo,个人主页,个人网站",
+		"title": "Sky的个人主页",
+		"description": "欢迎来到Sky的奇妙世界！",
+		"keywords": "Sky,sky,个人主页,个人网站",
 		"icon": "/favicon.ico"
 	},
 	"avatar": "/img/avatar.jpg",
-	"welcometitle": "Hi, I'm Leleo",
+	"welcometitle": "Hi, I'm Sky",
 	"color": {
 		"themecolor": "#FFFFFF",
 		"welcometitlecolor": "#FFFFFF",
@@ -43,10 +40,10 @@
 	},
 	"socialPlatformIcons": [{
 		"icon": "mdi-github",
-		"link": "https://www.github.com/leleo886"
+		"link": "https://www.github.com/abc1319"
 	}, {
 		"icon": "mdi-email",
-		"link": "mailto:leleo886@foxmail.com"
+		"link": "mailto:liuliu19901110@gmail.com.com"
 	}, {
 		"icon": "mdi-qqchat",
 		"link": "https://im.qq.com/"
@@ -122,71 +119,70 @@
 			"url": "/img/wallpaper/dynamic-mobile/Doodle-小猫女仆降临/d12.mp4"
 		}]
 	},
-	"projectcards": [{
+	"projectcards":[{
 		"go": "🚀 前往",
-		"img": "/img/sunshine.jpg",
-		"title": "Project 1",
+		"img": "/img/sunshinea.jpg",
+		"title": "simple-nav-page",
 		"subtitle": "1,000 miles of wonder",
-		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"text": "simple-nav-page",
+		"url": "https://simple-nav-page.jbt.de5.net",
 		"show": false
 	}, {
 		"go": "🗂️ 前往",
-		"img": "/img/sunshine.jpg",
-		"title": "Project 2",
+		"img": "/img/sunshineb.jpg",
+		"title": "oiio-nav",
 		"subtitle": "2,000 miles of wonder",
-		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"text": "oiio-nav",
+		"url": "https://oiio-nav.pages.dev",
 		"show": false
 	}, {
 		"go": "📝 前往",
-		"img": "/img/sunshine.jpg",
-		"title": "Project 3",
+		"img": "/img/sunshinec.jpg",
+		"title": "药学导航",
 		"subtitle": "3,000 miles of wonder",
-		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"text": "mtab.soso",
+		"url": "https://mtab.soso.ccwu.cc",
 		"show": false
 	}, {
 		"go": "👍 前往",
-		"img": "/img/sunshine.jpg",
-		"title": "Project 4",
+		"img": "/img/sunshined.jpg",
+		"title": "X-home",
 		"subtitle": "4,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
-		"show": false
-	}, {
-		"go": "🗃 前往",
-		"img": "/img/sunshine.jpg",
-		"title": "Project 5",
-		"subtitle": "5,000 miles of wonder",
-		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"url": "X主页导航",
 		"show": false
 	}, {
 		"go": "🎨 前往",
-		"img": "/img/sunshine.jpg",
-		"title": "Project 6",
+		"img": "/img/sunshinee.jpg",
+		"title": "pro-pintree",
 		"subtitle": "6,000 miles of wonder",
-		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"text": "pro-pintree",
+		"url": "https://pro-pintree.vercel.de5.net",
+		"show": false
+	}, {
+		"go": "🎨 前往",
+		"img": "/img/sunshinef.jpg",
+		"title": "navhubi",
+		"subtitle": "6,000 miles of wonder",
+		"text": "navhubi",
+		"url": "https://navhubi.vercel.de5.net",
 		"show": false
 	}, {
 		"go": "💍 前往",
-		"img": "/img/sunshine.jpg",
-		"title": "Project 7",
+		"img": "/img/sunshineg.jpg",
+		"title": "pan",
 		"subtitle": "7,000 miles of wonder",
-		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"text": "pan",
+		"url": "https://pan.vercel.de5.net",
 		"show": false
 	}, {
 		"go": "🔍 前往",
-		"img": "/img/sunshine.jpg",
-		"title": "Project 8",
+		"img": "/img/sunshineh.jpg",
+		"title": "drug.soso",
 		"subtitle": "8,000 miles of wonder",
-		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"text": "drug.soso导航",
+		"url": "https://drug.soso.ccwu.cc",
 		"show": false
 	}],
-	"statement": ["备案号：XXICP备123456789号", "Copyright © 2025 Leleo"]
+	"statement": ["备案号：XXICP备123456789号", "Copyright © 2026 Sky"]
 }
-```
