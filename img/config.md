@@ -138,14 +138,14 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshinea.jpg", title: "simple-nav-page", subtitle: "1,000 miles of wonder", text: "simple-nav-page", url: "https://simple-nav-page.jbt.de5.net/", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshineb.jpg", title: "oiio导航网站", subtitle: "2,000 miles of wonder", text: "oiio导航网站", url: "https://oiio-nav.pages.dev/", show: false },
-		{ go: "📝 前往", img: "/img/sunshinec.jpg", title: "mtab-soso", subtitle: "3,000 miles of wonder", text: "药学导航网站", url: "https://mtab.soso.ccwu.cc", show: false },
-		{ go: "👍 前往", img: "/img/sunshined.jpg", title: "X-home", subtitle: "4,000 miles of wonder", text: "X主页导航", url: "https://13145219.xyz/", show: false },
-		{ go: "🗃 前往", img: "/img/sunshinee.jpg", title: "pro-pintree", subtitle: "5,000 miles of wonder", text: "pro-pintree", url: "https://pro-pintree.vercel.de5.net/", show: false },
-		{ go: "🎨 前往", img: "/img/sunshinef.jpg", title: "navhubi", subtitle: "6,000 miles of wonder", text: "navhubi", url: "https://navhubi.vercel.de5.net/", show: false },
-		{ go: "💍 前往", img: "/img/sunshineg.jpg", title: "pan", subtitle: "7,000 miles of wonder", text: "pan", url: "https://pan.vercel.de5.net/", show: false },
-		{ go: "🔍 前往", img: "/img/sunshineh.jpg", title: "drug.soso", subtitle: "8,000 miles of wonder", text: "drug.soso导航网站", url: "https://drug.soso.ccwu.cc/", show: false },
+		{ go: "🚀 前往", img: "/img/sunshinea.jpg", title: "simple-nav-page", subtitle: "simple-nav-page", text: "simple-nav-page", url: "https://simple-nav-page.jbt.de5.net/", show: false },
+		{ go: "🗂️ 前往", img: "/img/sunshineb.jpg", title: "oiio导航网站", subtitle: "oiio导航网站", text: "oiio导航网站", url: "https://oiio-nav.pages.dev/", show: false },
+		{ go: "📝 前往", img: "/img/sunshinec.jpg", title: "mtab-soso", subtitle: "药学导航网站", text: "药学导航网站", url: "https://mtab.soso.ccwu.cc", show: false },
+		{ go: "👍 前往", img: "/img/sunshined.jpg", title: "X-home", subtitle: "X主页导航", text: "X主页导航", url: "https://13145219.xyz/", show: false },
+		{ go: "🗃 前往", img: "/img/sunshinee.jpg", title: "pro-pintree", subtitle: "pro-pintree", text: "pro-pintree", url: "https://pro-pintree.vercel.de5.net/", show: false },
+		{ go: "🎨 前往", img: "/img/sunshinef.jpg", title: "navhubi", subtitle: "navhubi", text: "navhubi", url: "https://navhubi.vercel.de5.net/", show: false },
+		{ go: "💍 前往", img: "/img/sunshineg.jpg", title: "pan", subtitle: "pan网盘导航", text: "pan", url: "https://pan.vercel.de5.net/", show: false },
+		{ go: "🔍 前往", img: "/img/sunshineh.jpg", title: "drug.soso", subtitle: "药研导航导航r", text: "drug.soso导航网站", url: "https://drug.soso.ccwu.cc/", show: false },
 	],
 
 	statement: ["备案号：XXICP备123456789号", "Copyright © 2026 Sky"],
